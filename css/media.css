@@ -1,0 +1,35 @@
+@media (max-width: 1160px){
+    .info_catalog{
+        flex-direction: column;
+    }
+    .row_img_catalog{
+        gap: 30px;
+    }
+    .row_item_expoparts{
+        display: none;
+    }
+    .row_mikrobus_item{
+        flex-wrap: wrap;
+    }
+}
+@media(max-width:1045px){
+    .row_mikrobus_item
+    {
+        justify-content: center;
+    }
+    
+}
+@media (max-width:830px){
+    .row_item_auto{
+        flex-direction: column;
+    }
+    .item_auto_link{
+        flex-direction: none;
+    }
+    .narod_auto{
+        flex-direction: column;
+    }
+    .item_auto_link{
+        margin-top: 30px;
+    }
+}
