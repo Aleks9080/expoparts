@@ -6,8 +6,8 @@ $('.rev_slider').slick({
     slidesToScroll: 2,
     autoplay: true,
     autoplaySpeed: 3000,
-    prevArrow: "<img src='/img/expoparts.ru/arrow-down.svg' class='slick-prev' alt='1'>",
-    nextArrow: "<img src='/img/expoparts.ru/arrow-down-sign.svg' class='slick-next' alt='2'>",
+    prevArrow: "<img src='./img/expoparts.ru/arrow-down.svg' class='slick-prev' alt='1'>",
+    nextArrow: "<img src='./img/expoparts.ru/arrow-down-sign.svg' class='slick-next' alt='2'>",
     responsive: [
       {
         breakpoint: 1110,
